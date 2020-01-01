@@ -1,5 +1,4 @@
-
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/fabiotavarespr/udacity-devopsengineer-project4.svg?style=svg)](https://circleci.com/gh/fabiotavarespr/udacity-devopsengineer-project4)
 
 # Udacity - Cloud DevOps Engineer - Project 4
 
